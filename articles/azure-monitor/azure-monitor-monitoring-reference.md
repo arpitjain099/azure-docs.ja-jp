@@ -1,7 +1,7 @@
 ---
 title: Monitoring Azure monitor data reference  
 description: Important reference material needed when you monitor parts of Azure Monitor  
-author: rboucher
+author: arpitjain099
 ms.author: robb
 ms.topic: reference
 ms.service: azure-monitor
